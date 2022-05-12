@@ -30,6 +30,6 @@ public class PrateleiraProcura2 {
         } while (!String.valueOf(escolha).equalsIgnoreCase(saida));
 
         System.out.println("-------------------------------------------------------------------------------------------");
-        System.out.println("OBRIGADO PELA PREFERÊCIA. VOLTE SEMPRE <3 <3 !!");
+        System.out.println("OBRIGADO PELA PREFERÊCIA. VOLTE SEMPRE <3 <3 !!!!!!");
     }
 }
